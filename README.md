@@ -2,7 +2,7 @@
 
 Article link : https://www.mkyong.com/spring-boot/spring-rest-hello-world-example/
 
-## 1. How to start it
+## 1. How to run
 ```
 $ git clone https://github.com/mkyong/spring-boot.git
 $ cd spring-rest-hello-world
