@@ -19,4 +19,4 @@ jobs:
     # You need to use the INSTALLATION_NAME from the previous step
     runs-on: arc-runner-set
     steps:
-    - run: echo "🎉 This job uses runner scale set runners!"
+    - run: echo "🎉 This job uses my firest runner scale set runners!"
